@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Game from './Game';
 
+
 ReactDOM.render(
   <React.StrictMode>
     <Game/>
